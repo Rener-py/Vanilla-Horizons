@@ -1,0 +1,27 @@
+{
+	"favorites": [
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"animal_feeding_trough:feeding_trough\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"farmersdelight:horse_feed\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"waystones:waystone\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwbridges:acacia_log_bridge_stair\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwbridges:cobblestone_bridge\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwfences:oak_wired_fence\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwfences:vintage_metal_fence\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwlights:soul_double_street_lamp\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwlights:classic_street_lamp\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwlights:pale_oak_ceiling_fan_light\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwwindows:dark_prismarine_brick_arrow_slit\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"niftycarts:oak_animal_cart\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"niftycarts:dark_oak_supply_cart\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwfences:wooden_cheval_de_frise\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwlights:magenta_lamp\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"plushables:plushable_ribbit\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"itemcollectors:basic_collector\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_fence\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"measurements:tape_measure\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"mcwwindows:hammer\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{components:{\"travelersbackpack:starter_upgrades\":[{count:1,id:\"travelersbackpack:tanks_upgrade\"}]},count:1,id:\"travelersbackpack:standard\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

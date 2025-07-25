@@ -1,0 +1,8 @@
+#Render food bar when riding a mount.
+#Default Value: true
+#Requires Restart: Game
+food_bar = true
+#Render experience bar when not jumping with a mount.
+#Default Value: true
+#Requires Restart: Game
+experience_bar = true

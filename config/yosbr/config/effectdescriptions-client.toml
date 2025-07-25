@@ -1,0 +1,38 @@
+#Add rich tooltips including effect descriptions to effect widgets in inventory screens.
+#Default Value: true
+widget_tooltips = true
+#Add effect descriptions to item tooltips.
+#Default Value: ALWAYS
+#Allowed Values: NEVER, SHIFT, ALWAYS
+item_descriptions = "ALWAYS"
+
+[widget_tooltip_components]
+	#Add the effect description to effect widget tooltips.
+	#Default Value: true
+	effect_description = true
+	#Add the name of the mod that added an effect to effect widget tooltips.
+	#Default Value: false
+	mod_name = false
+	#Add the effect name and duration to effect widget tooltips.
+	#Default Value: true
+	effect_name = true
+	#Add attributes granted by an effect to effect widget tooltips.
+	#Default Value: true
+	effect_attributes = true
+	#Add the internal id of an effect to effect widget tooltips.
+	#Default Value: false
+	internal_effect_name = false
+
+[item_description_targets]
+	#Add effect descriptions to suspicious stew items.
+	#Default Value: true
+	suspicious_stew = true
+	#Add effect descriptions to food items, e.g. rotten flesh and raw chicken.
+	#Default Value: true
+	consumable = true
+	#Add effect descriptions to ominous bottle items.
+	#Default Value: true
+	ominous_bottle = true
+	#Add effect descriptions to potion items, e.g. potion, splash potion, lingering potion, and tipped arrow.
+	#Default Value: true
+	potion_contents = true

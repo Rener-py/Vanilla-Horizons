@@ -1,0 +1,9 @@
+{
+  "maxBirds": 10,
+  "maxMoths": 10,
+  "maxSpiders": 10,
+  "spawnHatman": true,
+  "spawnBird": true,
+  "spawnMoth": true,
+  "spawnSpider": true
+}

@@ -1,0 +1,5 @@
+[general]
+printIDs = false
+protectAllMobs = false
+mods = ["iceandfire"]
+mobs = ["minecraft:zombie", "minecraft:skeleton", "minecraft:drowned", "minecraft:stray"]

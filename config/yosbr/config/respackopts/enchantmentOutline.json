@@ -1,0 +1,13 @@
+{
+    glintColor: "purple",
+    armor: "on",
+    compatibility: {
+        tools: "vanilla",
+        mace: "vanilla",
+        shields: "vanilla",
+        xPBottles: "vanilla",
+        goldenHelmet: "vanilla",
+        books: "vanilla",
+        food: "vanilla"
+    }
+}

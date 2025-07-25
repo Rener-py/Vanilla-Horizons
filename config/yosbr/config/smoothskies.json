@@ -1,0 +1,7 @@
+{
+	"distance": 96,
+	"fixSkyboxClipping": true,
+	"lowerSkyVoidDarkness": true,
+	"removeSkyInVoid": false,
+	"clearSkies": false
+}

@@ -1,0 +1,7 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+turnOffPotionParticles = "NONE"
+reduceAllChance = 0.49754903
+reduceDecreasedChance = 0.5
+disableParticles = false
+byTypeReductions = {  }

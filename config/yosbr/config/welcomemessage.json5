@@ -1,0 +1,19 @@
+{
+  "onlyRunOnDedicatedServers": false,
+  "sendEmptyLineBeforeFirstMessage": true,
+
+  "messageOneText": "Welcome to Vanilla Horizons!",
+  "messageOneColourIndex": 13,
+
+  "messageOneOptionalURL": "",
+
+  "messageTwoText": "Keybinds: [X] Item Swapper, [V] Crawl, [C] Zoom, [Alt] Expand minimap",
+  "messageTwoColourIndex": 14,
+
+  "messageTwoOptionalURL": "",
+
+  "messageThreeText": "[Shift + Right Click] with axe to fell tree, [Mouse Button 5] Ping Anything",
+  "messageThreeColourIndex": 14,
+
+  "messageThreeOptionalURL": ""
+}

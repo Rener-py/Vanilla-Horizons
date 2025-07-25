@@ -1,0 +1,19 @@
+{
+	"ShowSuspiciousStewTooltips": false,
+	"UseAsWhitelistInstead": false,
+	"BlacklistedItemIdentifiers": [
+		"no_mod:testitem"
+	],
+	"BlacklistedModsIDs": [
+		"spectrum",
+		"vinery",
+		"farmersdelight",
+		"createfood",
+		"expandeddelight",
+		"frightsdelight",
+		"moredelight",
+		"oceansdelight",
+		"silentsdelight",
+		"ubesdelight"
+	]
+}

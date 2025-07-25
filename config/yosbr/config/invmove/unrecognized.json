@@ -1,0 +1,12 @@
+{
+  "allowMovement": {
+    "xaero.common.gui.GuiWaypoints": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  },
+  "hideBackground": {
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  }
+}

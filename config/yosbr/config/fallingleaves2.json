@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "displayDebugData": false,
+  "enabled": true,
+  "alwaysUseVanillaParticles": false,
+  "useVanillaTextures": false,
+  "leafSize": 5,
+  "leafLifespan": 200,
+  "leafSpawnRate": 20,
+  "coniferLeafSpawnRate": 0,
+  "snowflakeSpawnRate": 30,
+  "dropFromPlayerPlacedBlocks": false,
+  "leavesOnBlockHit": false,
+  "minimumFreeSpaceBelow": 1,
+  "windEnabled": true,
+  "windlessDimensions": [
+    "minecraft:the_end",
+    "minecraft:the_nether"
+  ],
+  "leafSettings": {
+    "biomesoplenty:willow_leaves": {
+      "particleImplementation": "REGULAR",
+      "spawnRateFactor": 0.6,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:snowblossom_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 7.5,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:pine_leaves": {
+      "particleImplementation": "REGULAR",
+      "spawnRateFactor": 0.2,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:empyreal_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 0.2,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:redwood_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 0.1,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:palm_leaves": {
+      "particleImplementation": "REGULAR",
+      "spawnRateFactor": 0.6,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:fir_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 0.1,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:hellbark_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 0.1,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "biomesoplenty:umbran_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 0.2,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    }
+  },
+  "leafSpawners": [],
+  "fallSpawnRateFactor": 1.8,
+  "winterSpawnRateFactor": 0.1,
+  "startingSpawnRadius": 0,
+  "decaySpawnRateFactor": 2.6,
+  "maxDecayLeaves": 9,
+  "registerParticles": true
+}

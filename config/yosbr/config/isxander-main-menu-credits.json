@@ -1,0 +1,38 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Rener",
+        "color": "yellow",
+        "shadow": true
+      },
+      {
+        "text": "Nagi",
+        "color": "yellow",
+        "shadow": true
+      },
+      {
+        "text": "Devs:",
+        "color": "blue",
+        "shadow": true
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "Vanilla Horizons BETA",
+        "color": "light_purple",
+        "shadow": true
+      }
+    ],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
