@@ -198,7 +198,6 @@ silk-all-1.11.1.jar
 sit!-1.2.4.5+1.21.5.jar
 skeletonhorsespawn-1.21.5-4.1.jar
 skinlayers3d-fabric-1.8.1-mc1.21.5.jar
-SkinShuffle-2.9.1+1.21.5.jar
 smoothgui-0.1.1.jar
 smoothscroll-2.2.3.1+1.21.5.jar
 smoothskies-2.10.8+1.21.5-fabric.jar
